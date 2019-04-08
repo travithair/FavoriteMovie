@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Mr. Movie v 5</string>
+    <string name="id_cari">Cari</string>
+    <string name="id_judul_film">Judul Film</string>
+    <string name="id_judul">Judul</string>
+    <string name="id_deskripsi">Deskripsi</string>
+    <string name="id_tanggal_rilis">Tanggal Rilis</string>
+    <string name="rating">Rating</string>
+    <string name="id_kepopuleran">Kepopuleran</string>
+
+    <string name="title_now_playing">Tampil Sekarang</string>
+    <string name="title_up_coming">Tampil Nanti</string>
+    <string name="title_search">Cari</string>
+
+    <string name="ubah_bahasa">Ubah Bahasa</string>
+    <string name="bahasa">Bahasa</string>
+    <string name="detail">Detail</string>
+    <string name="favorit">Favorit</string>
+    <string name="notification">Pengaturan Notifikasi</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="banner_widget">Favorite Movie</string>
+    <string name="no_data">Tidak ada data</string>
+    <string name="setting">Pengaturan</string>
+    <string name="welcome">Selamat Pagi</string>
+    <string name="hint">Buka Aplikasi</string>
+
+    <string name="reminder">Penginget</string>
+    <string name="reminder_desc">Notifikasi Selamat Pagi</string>
+    <string name="reminder_update">Pengingat Film Baru</string>
+    <string name="reminder_update_desc">Notifikasi Film Baru</string>
+</resources>

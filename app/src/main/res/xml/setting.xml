@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory android:title="@string/bahasa">
+        <Preference
+            android:summary="@string/ubah_bahasa"
+            android:title="@string/bahasa"
+            android:key="bahasa">
+        </Preference>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/notification">
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="reminder"
+            android:summary="@string/reminder_desc"
+            android:title="@string/reminder" />
+
+        <SwitchPreference
+            android:defaultValue="true"
+            android:key="update"
+            android:summary="@string/reminder_update"
+            android:title="@string/reminder_update_desc" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
